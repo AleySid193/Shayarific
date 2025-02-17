@@ -22,6 +22,12 @@ Welcome to **Shayarific**, an AI-powered Shayari generator that transforms your 
 
 ---
 
+## **Screenshots** 🚀
+![image](https://github.com/user-attachments/assets/2b207529-b771-479c-beb4-d76865d07f87)
+![image](https://github.com/user-attachments/assets/14a51af9-2957-4114-8f66-4f68e6a9d635)
+
+---
+
 ## **Technologies Used** 💻
 
 - **TensorFlow**: For building and training the machine learning model that generates poetic verses.
